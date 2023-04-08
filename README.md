@@ -14,3 +14,8 @@ Estudante e entusiasta de análise de dados. Atualmente buscando recolocação n
  <a href="https://www.linkedin.com/in/igorfpereira/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
+ 
+ <a href="https://www.kaggle.com/igorfeitosa18">
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+ </a>
+
