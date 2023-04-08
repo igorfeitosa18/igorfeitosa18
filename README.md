@@ -2,5 +2,8 @@
 Estudante e entusiasta de análise de dados. Atualmente buscando recolocação no mercado de trabalho.
 - Estudando para me tornar **Analista de Dados** 👨🏽‍💻📚 ;
 - Apaixonado por **futebol** ⚽;
-- Curioso e fascinado por descobertas que os **dados** podem mostrar;
+- Curioso e fascinado por descobertas que os **dados** podem mostrar 🔎💻;
 - No momento, estou aprendendo:
+
+ <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
