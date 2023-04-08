@@ -24,6 +24,6 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
  </a>
 
-<a href="instagram.com/apenasigao">
+<a href="https://www.instagram.com/apenasigao">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
  </a>
