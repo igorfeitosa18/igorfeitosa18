@@ -12,4 +12,4 @@ Estudante e entusiasta de análise de dados. Atualmente buscando recolocação n
 
 ### Você me encontra em:
 
- <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
